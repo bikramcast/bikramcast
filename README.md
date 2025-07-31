@@ -1,4 +1,4 @@
-- #👋 Hi, I’m @bikramcast
+- 👋 Hi, I’m @bikramcast
 
 🎓 I’m a Computer Engineering graduate passionate about advanced research and applications in **Machine Learning**, **Artificial Intelligence**, and **Graph Neural Networks**. I’m currently preparing to pursue an **MS in Computer Science**.
 ---
